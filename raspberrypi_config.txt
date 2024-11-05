@@ -1,0 +1,4 @@
+OS version : Debian Bullseye 32 bit
+
+Raspian mirror error solution:
+https://pimylifeup.com/raspbian-repository-mirror/
